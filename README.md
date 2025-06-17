@@ -57,11 +57,6 @@ I also have experience working with SQL queries, performing data <strong>Extract
   <img src="./images/tecnm.png" alt="TECNM" width="110" height="125"/>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drkmorn&show_icons=true&theme=radical" class="hover-effect">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkmorn&layout=compact&theme=radical" class="hover-effect">
-</div>
 
 <h3 align="center">Soft Skills</h3>
 
